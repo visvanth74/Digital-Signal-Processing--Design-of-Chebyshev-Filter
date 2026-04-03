@@ -68,6 +68,7 @@ title('magnitude response chebyshev lpf');
 grid on;
 
 ## OUTPUT:
-
+<img width="743" height="696" alt="image" src="https://github.com/user-attachments/assets/64f14d74-16fa-4d76-ac03-0e22e1e9743f" />
 ## RESULT:
 
+<img width="1280" height="461" alt="image" src="https://github.com/user-attachments/assets/d6cf283d-16b3-4dee-919f-d5b46c26ecac" />
